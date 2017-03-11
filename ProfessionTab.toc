@@ -1,0 +1,10 @@
+## Title: ProfessionTab
+## Version: 0.0.1
+## Author: Keyboardturner
+## Interface: 70000
+## Notes: No more extra clicking for opening your professions.
+## Dependencies: Blizzard_TradeSkillUI
+
+ProfessionTab.lua
+ProfessionTab2.lua
+ProfessionTabButtons.lua
